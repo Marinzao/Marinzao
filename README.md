@@ -68,7 +68,7 @@ Built end to end: data modeling, layered PHP backend, SPA frontend, third-party 
 
 ---
 
-<!--
+
 ## GitHub stats
 
 Enable this section after publishing the MarnixCRM case study and pinning at least three repositories.
@@ -81,7 +81,7 @@ Private contributions only appear if you self-host github-readme-stats with a pe
 ![GitHub Streak](https://streak-stats.demolab.com?user=Marinzao&theme=tokyonight&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Marinzao&theme=tokyonight)
--->
+
 
 ## Contact
 
