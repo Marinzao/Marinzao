@@ -64,11 +64,10 @@ Built end to end: data modeling, layered PHP backend, SPA frontend, third-party 
 
 - Building MarnixCRM and improving its multi-tenant architecture
 - Studying Computer Science at Estácio (2023–2027)
-- Open to internship and junior full-stack opportunities
 
 ---
 
-
+<!--
 ## GitHub stats
 
 Enable this section after publishing the MarnixCRM case study and pinning at least three repositories.
@@ -81,7 +80,7 @@ Private contributions only appear if you self-host github-readme-stats with a pe
 ![GitHub Streak](https://streak-stats.demolab.com?user=Marinzao&theme=tokyonight&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Marinzao&theme=tokyonight)
-
+-->
 
 ## Contact
 
@@ -120,7 +119,7 @@ Desenvolvido de ponta a ponta: modelagem de dados, backend PHP em camadas, front
 
 - Evoluindo o MarnixCRM e sua arquitetura multi-tenant
 - Cursando Ciência da Computação na Estácio (2023–2027)
-- Aberto a oportunidades de estágio e posições júnior full-stack
+
 
 ### Contato
 
